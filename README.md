@@ -25,7 +25,7 @@ I'm a passionate backend developer based in Pontianak, Indonesia, with strong sk
 
 ## 📂 Highlight Projects
 
-### 🔹 [Karya Rasa](https://github.com/your-username/karya-rasa)
+### 🔹 [Karya Rasa](https://github.com/ridwanam9/KaryaRasa_backend)
 RESTful API for an e-commerce food platform.  
 - Built using Flask and SQLAlchemy ORM  
 - User authentication with password hashing  
@@ -33,7 +33,7 @@ RESTful API for an e-commerce food platform.
 - Deployed on Koyeb  
 - Integrated with Next.js frontend
 
-### 🔹 [Task Tracker CLI](https://github.com/your-username/task-tracker-cli)
+### 🔹 [Task Tracker CLI](https://github.com/ridwanam9/tasktracker-cli)
 Command-line tool for managing personal tasks.  
 - Built with Python and JSON file storage  
 - Modular code structure  
