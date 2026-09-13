@@ -25,6 +25,16 @@ I'm a passionate backend developer based in Pontianak, Indonesia, with strong sk
 
 ## 📂 Highlight Projects
 
+### 🔹 [Caching Proxy](https://github.com/ridwanam9/caching_proxy.git)
+A lightweight HTTP caching proxy built with Python and FastAPI. 
+- HTTP request forwarding to an origin server
+- In-memory response caching
+- Cache HIT / MISS detection
+- Query-parameter-based cache keys
+- Response status code and header forwarding
+- CLI-based cache management
+- Automated testing with pytest
+
 ### 🔹 [Karya Rasa](https://github.com/ridwanam9/KaryaRasa_backend)
 RESTful API for an e-commerce food platform.  
 - Built using Flask and SQLAlchemy ORM  
