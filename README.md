@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate backend developer based in Pontianak, Indonesia, with strong skills in Python, PHP, JavaScript, and modern frameworks such as Flask, Laravel, and Next.js. I hold a Bachelor's degree in Computer Science (GPA 3.82) from Universitas Muhammadiyah Yogyakarta and am currently sharpening my skills through RevoU's Full-Stack Software Engineering program.
+I'm a passionate backend developer based in Pontianak, Indonesia, with strong skills in Python, PHP, JavaScript, and modern frameworks such as Flask, Laravel, and Next.js. I hold a Bachelor's degree in Computer Science from Universitas Muhammadiyah Yogyakarta and am currently sharpening my skills through RevoU's Full-Stack Software Engineering program.
 
 💻 I love building scalable backend systems, RESTful APIs, and CLI applications.  
 🌐 I also enjoy bringing ideas to life through full-stack projects.  
