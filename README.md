@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ridwan Amirul Maulana
 
-🎯 **Back-End Engineer** | 👨‍🎓 **Computer Science Graduate (Cumlaude)** | 🔧 **Software Engineering Enthusiast**
+🎯 **Back-End Engineer** | 👨‍🎓 **Computer Science Graduate** | 🔧 **Software Engineering Enthusiast**
 
 ---
 
